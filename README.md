@@ -20,7 +20,11 @@ This is a beginner-friendly Spring Boot project for learning and experimentation
 🚀 Features
 
 ✅ Spring Boot REST API
+
 ✅ CRUD Endpoints
+
 ✅ Database integration with Spring Data JPA
+
 ✅ Auto-configuration & dependency injection
+
 ✅ Build & run with Maven
