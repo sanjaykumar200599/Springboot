@@ -1,6 +1,6 @@
 This repository contains a Spring Boot backend application created step-by-step while learning key Spring Boot concepts such as
 
-Project setup with Spring Initializr
+Project setup with Spring Initializer
 
 REST API development
 
