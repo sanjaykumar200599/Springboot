@@ -1,4 +1,4 @@
-This repository contains a Spring Boot backend application created step-by-step while learning key Spring Boot concepts such as
+This repository contains a Spring Boot backend application created step-by-step while learning key Spring Boot concept such as
 
 Project setup with Spring Initializer
 
